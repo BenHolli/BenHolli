@@ -15,6 +15,6 @@ geospatial remote sensing, and government services.
 My most current resume can always be downloaded from [here](https://www.jedi.com/obiwan/resume.pdf),
 or you can view my [LinkedIn profile](https://www.linkedin.com/in/benholli).
 
-I've recently finished my current job contract with Bloomberg and am actively looking for my next
+I've recently finished my latest job contract with Bloomberg and am actively looking for my next
 contract or W2 job, so please reach out of you're hiring or know somebody who is.
 I'm looking for a 100% remote software engineering job working primarily in C/C++ in a Linux environment.
